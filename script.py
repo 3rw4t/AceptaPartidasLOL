@@ -11,4 +11,3 @@ while condition:
         mouse.position = (636, 562)
         mouse.click(Button.left, 1)
         condition = False
-    
