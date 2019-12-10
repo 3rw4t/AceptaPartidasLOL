@@ -1,4 +1,4 @@
 Modo de uso:
   1. Buscar partida
   2. Ejecutar script.py
-  3. No hacerle focus a la ventana del LoL
+  3. Dejar el cursor alejado de donde apareceria el mensaje "aceptar"
